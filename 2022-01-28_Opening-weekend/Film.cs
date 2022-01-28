@@ -22,7 +22,7 @@ namespace _2022_01_28_Opening_weekend
             eredeticim = t[0];
             magyarcim = t[1];
             bemutato = t[2];
-            forgalmazo =[3];
+            forgalmazo = t[3];
             bevel = int.Parse(t[4]);
             latogato = int.Parse(t[5]);
         }
